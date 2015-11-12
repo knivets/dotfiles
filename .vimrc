@@ -1,0 +1,9 @@
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
+set smarttab
+syntax on
+set autoindent
+set hlsearch
+set incsearch
+set nu
